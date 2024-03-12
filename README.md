@@ -2,7 +2,7 @@
 
 
 ## Problem Definition:
-Utilize the MNIST dataset, which consists of 60,000 small square 28x28 pixel grayscale images of handwritten single digits from 0 to 9.
+Utilize the MNIST dataset, which consists images of handwritten single digits from 0 to 9.
 The task is to classify these images into one of the 10 classes representing integer values from 0 to 9.
 
 ### Model Training:
